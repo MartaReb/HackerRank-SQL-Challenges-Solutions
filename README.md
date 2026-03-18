@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.hackerrank.com/profile/martreb">
+        <img alt="HackerRank Logo | Marta Profile" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+    </a>
+</p>
+
 # HackerRank-SQL-Challenges-Solutions
 
 
@@ -20,3 +26,4 @@
 | 15 | Basic Select | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/01%20-%20Basic%20Select/15%20-%20Weather%20Observation%20Station%2010.sql)
 | 16 | Basic Select | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/01%20-%20Basic%20Select/16%20-%20Weather%20Observation%20Station%2011.sql)
 | 17 | Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/01%20-%20Basic%20Select/17%20-%20Weather%20Observation%20Station%2012.sql)
+| 18 | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/01%20-%20Basic%20Select/18%20-%20Higher%20Than%2075%20Marks.sql)
