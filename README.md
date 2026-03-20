@@ -12,7 +12,6 @@
 
 <a href="Certificates/sql_basic%20certificate.pdf">
     <img src="Certificates/sql_basic_skil_badge.png" alt="SQL (Basic) Certificate" />
- alt="SQL (Basic) Certificate"/>
 </a>
 
 ## HackerRank-SQL-Challenges-Solutions
