@@ -11,7 +11,8 @@
 ## HackerRank Certificates
 
 <a href="Certificates/sql_basic%20certificate.pdf">
-    <img src="<img width="100" height="109" alt="image" src="https://github.com/user-attachments/assets/a49bcd8e-2cb8-4229-bc53-79e77478d460" />" alt="SQL (Basic) Certificate"/>
+    <img src="Certificates/sql_basic_skil_badge.png" alt="SQL (Basic) Certificate" />
+ alt="SQL (Basic) Certificate"/>
 </a>
 
 ## HackerRank-SQL-Challenges-Solutions
