@@ -4,7 +4,17 @@
     </a>
 </p>
 
-# HackerRank-SQL-Challenges-Solutions
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/profile/martreb)
+
+## HackerRank Certificates
+
+<a href="Certificates/sql_basic%20certificate.pdf">
+    <img src="<img width="100" height="109" alt="image" src="https://github.com/user-attachments/assets/a49bcd8e-2cb8-4229-bc53-79e77478d460" />" alt="SQL (Basic) Certificate"/>
+</a>
+
+## HackerRank-SQL-Challenges-Solutions
 
 
 | Number | Subdomain | Challenge | Difficulty | Solution |
