@@ -15,11 +15,11 @@
 SELECT DISTINCT b.N,
     CASE
     -- If the node has no parent, it is the root
-        WHEN b.P IS NULL THEN 'Root'
     -- If there is no matching child (no row where this node is a parent), 
-    -- then c.N will be NULL → this node has no children → Leaf    
-        WHEN c.N IS NULL THEN 'Leaf'
+    -- then c.N will be NULL → this node has no children → Leaf   
     -- Otherwise, the node has both a parent and at least one child → Inner node
+        WHEN b.P IS NULL THEN 'Root'
+        WHEN c.N IS NULL THEN 'Leaf'
         ELSE 'Inner'
     END AS NodeType
 FROM BST b
