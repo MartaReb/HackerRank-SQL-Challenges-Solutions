@@ -72,3 +72,9 @@
 | 39 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/03%20-%20Aggregation/15%20-%20Weather%20Observation%20Station%2018.sql)
 | 40 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/03%20-%20Aggregation/16%20-%20Weather%20Observation%20Station%2019.sql)
 | 41 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/03%20-%20Aggregation/17%20-%20Weather%20Observation%20Station%2020.sql)
+
+### Basic Join
+
+| Number | Challenge | Difficulty | Solution |
+|:------:|:---------:|:---------:|:---------:|
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/1%20-%20Population%20Census.sql)
