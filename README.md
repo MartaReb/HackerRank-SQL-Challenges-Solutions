@@ -78,3 +78,4 @@
 | Number | Challenge | Difficulty | Solution |
 |:------:|:---------:|:---------:|:---------:|
 | 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/1%20-%20Population%20Census.sql)
+| 2 | [African Cities]( https://www.hackerrank.com/challenges/african-cities/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/2%20-%20African%20Cities.sql)
