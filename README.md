@@ -14,6 +14,8 @@
     <img src="Certificates/sql_basic_skil_badge.png" alt="SQL (Basic) Certificate" />
 </a>
 
+![SQL](Certificates/sql_5_star.png)
+
 ## HackerRank-SQL-Challenges-Solutions
 
 ### Basic Select Challenges
