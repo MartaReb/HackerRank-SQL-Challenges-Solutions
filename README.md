@@ -81,4 +81,5 @@
 |:------:|:---------:|:---------:|:---------:|
 | 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/1%20-%20Population%20Census.sql)
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/2%20-%20African%20Cities.sql)
-| 3 | [Average Population of Each Continent.](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/3%20-%20Average%20Population%20of%20Each%20Continent.sql)
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/3%20-%20Average%20Population%20of%20Each%20Continent.sql)
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/4%20-%20The%20Report.sql)
