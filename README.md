@@ -51,7 +51,7 @@
 | 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/02%20-%20Advanced%20Select/02%20-%20The%20PADS.sql)
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/02%20-%20Advanced%20Select/03%20-%20Occupations.sql)
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/02%20-%20Advanced%20Select/04%20-%20Binary%20Tree%20Nodes.sql)
-| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | Medium | [Solution]
+| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/02%20-%20Advanced%20Select/05%20-%20New%20Companies.sql)
 
 ### Aggregation Challenges
 
