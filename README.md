@@ -83,4 +83,6 @@
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/2%20-%20African%20Cities.sql)
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | Easy | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/3%20-%20Average%20Population%20of%20Each%20Continent.sql)
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/4%20-%20The%20Report.sql)
-| 5 | [TTop Competitors](https://www.hackerrank.com/challenges/full-score/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/5%20-%20Top%20Competitors.sql)
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/5%20-%20Top%20Competitors.sql)
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/6%20-%20Ollivander's%20Inventory.sql)
+
