@@ -26,7 +26,11 @@ WHERE p.is_evil = 0 AND w.coins_needed =
 ORDER BY w.power DESC, p.age DESC;
 
 
---Solution using Window Function:
+--Solution using Window Function & CTE
+
+-- Why it's better than Correlated Subqueries:
+-- 1. Performance: Processes data in a single pass instead of a nested loop (no row-by-row re-scanning of the table), making it highly scalable for large datasets.
+-- 2. Readability & Maintenance: Separates data ranking from filtering into logical, top-to-bottom steps using a CTE.
 
 WITH RankedWands AS (
     SELECT 
