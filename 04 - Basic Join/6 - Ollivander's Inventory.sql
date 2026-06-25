@@ -24,3 +24,19 @@ WHERE p.is_evil = 0 AND w.coins_needed =
     WHERE code = w.code
     AND power = w.power)
 ORDER BY w.power DESC, p.age DESC;
+
+
+--Solution using Window Function:
+
+WITH RankedWands AS (
+    SELECT 
+        w.id, p.age, w.coins_needed, w.power,
+        ROW_NUMBER() OVER(PARTITION BY p.code, w.power ORDER BY w.coins_needed ASC) as rn
+    FROM wands w
+    LEFT JOIN wands_property p ON w.code = p.code
+    WHERE p.is_evil = 0
+)
+SELECT id, age, coins_needed, power
+FROM RankedWands
+WHERE rn = 1
+ORDER BY power DESC, age DESC;
