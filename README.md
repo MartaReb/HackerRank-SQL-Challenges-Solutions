@@ -85,4 +85,4 @@
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/4%20-%20The%20Report.sql)
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/5%20-%20Top%20Competitors.sql)
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/6%20-%20Ollivander's%20Inventory.sql)
-
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | Medium | [Solution](https://github.com/MartaReb/HackerRank-SQL-Challenges-Solutions/blob/main/04%20-%20Basic%20Join/7%20-%20Challenges.sql)
