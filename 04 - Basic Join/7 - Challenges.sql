@@ -2,7 +2,7 @@
 --       Information
 -- ========================
 
--- Direct Link: https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
+-- Direct Link: https://www.hackerrank.com/challenges/challenges/problem
 -- Max Score: 30
 -- DBMS: MySQL
 
